@@ -1,0 +1,8 @@
+The CS-470 course built off of the work achieved in CS-465. In CS-465, we built a website
+using a MEAN stack. In this course, we learned about different ways to host that system. In the
+first part of this course, we learned about containerization and setting up networks in Docker. In
+the other section of this course, we covered cloud hosting solutions offered by AWS. We focused
+in-depth on S3 storage, Lambda, Dynamo DB, and API Gateway development.
+This course has increased my knowledge about different ways to launch web applications. This
+knowledge can help me in roles which involve web development, cloud services,,
+containerization, or even roles which require skills with AWS.
